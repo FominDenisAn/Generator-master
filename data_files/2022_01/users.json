@@ -1,0 +1,804 @@
+[
+    {
+        "login": "TGC1\Vesnin.VA",
+"abbreviatedName": "Веснин В.А.
+
+},
+
+{
+        "login": "TGC1\\Shishkanova.AY",
+        "abbreviatedName": "Шишканова А.Ю."
+    }
+]
+
+
+{
+"abbreviatedName": "Агафонова Ольга Анатольевна",
+"login": "TGC1\Agafonova.OA"
+},
+
+{
+"abbreviatedName": "Ахмадиев Булат Ринатович",
+"login": "TGC1\Ahmadiev.BR"
+},
+
+{
+"abbreviatedName": "Арцыбашева Кристина",
+"login": "TGC1\Artsybasheva.KE"
+},
+
+{
+"abbreviatedName": "Аниченков Дмитрий Владимирович",
+"login": "TGC1\Anichenkov.DV"
+},
+
+{
+"abbreviatedName": "Архипов Андрей Сергеевич",
+"login": "TGC1\Arhipov.AS"
+},
+
+{
+"abbreviatedName": "Абрамкин Юрий Петрович",
+"login": "TGC1\Abramkin.UP"
+},
+
+{
+"abbreviatedName": "Анисенко Олег Игоревич",
+"login": "TGC1\Anisenko.OI"
+},
+
+{
+"abbreviatedName": "Антонов Андрей Александрович",
+"login": "TGC1\Antonov.AA"
+},
+
+{
+"abbreviatedName": "Авсеев Александр Александрович",
+"login": "TGC1\Avseev.AA"
+},
+
+{
+"abbreviatedName": "Баранов Андрей Евгеньевич",
+"login": "TGC1\Baranov.AE"
+},
+
+{
+"abbreviatedName": "Bekreneva.TA",
+"login": "TGC1\Bekreneva.TA"
+},
+
+{
+"abbreviatedName": "Беляев Сергей Александрович",
+"login": "TGC1\Belyaev.SA"
+},
+
+{
+"abbreviatedName": "Баранов Леонид Викторович",
+"login": "TGC1\Baranov.LV"
+},
+
+{
+"abbreviatedName": "Большакова Ольга Владимировна",
+"login": "TGC1\Bolshakova.OV"
+},
+
+{
+"abbreviatedName": "Бранзбург Марк Семенович",
+"login": "TGC1\Branzburg.MS"
+},
+
+{
+"abbreviatedName": "Гагарин Игорь Владимирович",
+"login": "TGC1\Gagarin.IV"
+},
+
+{
+"abbreviatedName": "Гаврильчук Александр Александрович",
+"login": "TGC1\Gavrilchuk.AA"
+},
+
+{
+"abbreviatedName": "Черемхина Ольга Феликсовна",
+"login": "TGC1\Cheremhina.OF"
+},
+
+{
+"abbreviatedName": "Дементьев Сергей Андреевич",
+"login": "TGC1\Dementev.SA"
+},
+
+{
+"abbreviatedName": "Довженко Александр Юрьевич",
+"login": "TGC1\Dovzhenko.AY"
+},
+
+{
+"abbreviatedName": "Драцкий Петр Сергеевич",
+"login": "TGC1\Dratskiy.PS"
+},
+
+{
+"abbreviatedName": "Дмитриев Вадим Иванович",
+"login": "TGC1\Dmitriev.VI"
+},
+
+{
+"abbreviatedName": "Евдокимов Александр Владимирович",
+"login": "TGC1\Evdokimov.AV"
+},
+
+{
+"abbreviatedName": "Евлашина Юлия Валерьевна",
+"login": "TGC1\Evlashina.YV"
+},
+
+{
+"abbreviatedName": "Егоров Алексей Николаевич",
+"login": "TGC1\Egorov.AN"
+},
+
+{
+"abbreviatedName": "Федирко Николай Иванович",
+"login": "TGC1\Fedirko.NI"
+},
+
+{
+"abbreviatedName": "Герасимова Елена Николаевна",
+"login": "TGC1\Gerasimova.EN"
+},
+
+{
+"abbreviatedName": "Golubev.SE",
+"login": "TGC1\Golubev.SE"
+},
+
+{
+"abbreviatedName": "Горохов Антон Владимирович",
+"login": "TGC1\Gorohov.AV"
+},
+
+{
+"abbreviatedName": "Громак Дмитрий Валерьевич",
+"login": "TGC1\Gromak.DV"
+},
+
+{
+"abbreviatedName": "Гурьева Наталья Владимировна",
+"login": "TGC1\Gureva.NV"
+},
+
+{
+"abbreviatedName": "Гусева Ольга Владимировна",
+"login": "TGC1\Guseva.OV"
+},
+
+{
+"abbreviatedName": "Гусляков Александр Иванович",
+"login": "TGC1\Guslyakov.AI"
+},
+
+{
+"abbreviatedName": "Игнатьев Александр Владимирович",
+"login": "TGC1\Ignatev.AV"
+},
+
+{
+"abbreviatedName": "Ivanchenko.IS",
+"login": "TGC1\Ivanchenko.IS"
+},
+
+{
+"abbreviatedName": "Иванов Никита Евгеньевич",
+"login": "TGC1\Ivanov.NE"
+},
+
+{
+"abbreviatedName": "Иванов Николай Сергеевич",
+"login": "TGC1\Ivanov.NS"
+},
+
+{
+"abbreviatedName": "Иванов Олег Владимирович",
+"login": "TGC1\Ivanov.OV"
+},
+
+{
+"abbreviatedName": "Иванов Сергей Олегович",
+"login": "TGC1\Ivanov.SO"
+},
+
+{
+"abbreviatedName": "Ivanova.EN",
+"login": "TGC1\Ivanova.EN"
+},
+
+{
+"abbreviatedName": "Иванова Галина Ивановна",
+"login": "TGC1\Ivanova.GI"
+},
+
+{
+"abbreviatedName": "Иванов Алексей Александрович",
+"login": "TGC1\Ivanow.AA"
+},
+
+{
+"abbreviatedName": "Ивашнев Михаил Валерьевич",
+"login": "TGC1\Ivashnev.MV"
+},
+
+{
+"abbreviatedName": "Карпиков Ярослав Геннадьевич",
+"login": "TGC1\Karpikov.YG"
+},
+
+{
+"abbreviatedName": "Карпов Василий Адольфович",
+"login": "TGC1\Karpov.VA"
+},
+
+{
+"abbreviatedName": "Ханов Андрей Евгеньевич",
+"login": "TGC1\Khanov.AE"
+},
+
+{
+"abbreviatedName": "Кипякин Александр Владимирович",
+"login": "TGC1\Kipyakin.AV"
+},
+
+{
+"abbreviatedName": "Кириллов Игорь Олегович",
+"login": "TGC1\Kirillov.IO"
+},
+
+{
+"abbreviatedName": "Комаров Максим Геннадьевич",
+"login": "TGC1\Komarov.MG"
+},
+
+{
+"abbreviatedName": "Кондрашов Антон Анатольевич",
+"login": "TGC1\Kondrashev.AA"
+},
+
+{
+"abbreviatedName": "Константинов Андрей Валерьевич",
+"login": "TGC1\Konstantinov.AV"
+},
+
+{
+"abbreviatedName": "Константинова Наталья Николаевна",
+"login": "TGC1\Konstantinova.NN"
+},
+
+{
+"abbreviatedName": "Коваль Елена Михайловна",
+"login": "TGC1\Koval.EM"
+},
+
+{
+"abbreviatedName": "Козодой Сергей Владимирович",
+"login": "TGC1\Kozodoy.SV"
+},
+
+{
+"abbreviatedName": "Крестов Павел Сергеевич",
+"login": "TGC1\Krestov.PS"
+},
+
+{
+"abbreviatedName": "Крюков Евгений Михайлович",
+"login": "TGC1\Kryukov.EM"
+},
+
+{
+"abbreviatedName": "Курьян Максим Михайлович",
+"login": "TGC1\Kurian.MM"
+},
+
+{
+"abbreviatedName": "Кузнецов Александр Игоревич",
+"login": "TGC1\Kuznetsov.AI"
+},
+
+{
+"abbreviatedName": "Ланевский Константин Вильямович",
+"login": "TGC1\Lanevskiy.KV"
+},
+
+{
+"abbreviatedName": "Лебедев Кирилл Игоревич",
+"login": "TGC1\Lebedev.KI"
+},
+
+{
+"abbreviatedName": "Легостаев Александр Сергеевич",
+"login": "TGC1\Legostaev.AS"
+},
+
+{
+"abbreviatedName": "Leontev.AS",
+"login": "TGC1\Leontev.AS"
+},
+
+{
+"abbreviatedName": "Луценко Роман Сергеевич",
+"login": "TGC1\Lutsenko.RS"
+},
+
+{
+"abbreviatedName": "Макарова Татьяна Александровна",
+"login": "TGC1\Makarova.TA"
+},
+
+{
+"abbreviatedName": "Марьин Дмитрий Сергеевич",
+"login": "TGC1\Marin.DS"
+},
+
+{
+"abbreviatedName": "Михайлов Павел Николаевич",
+"login": "TGC1\Mihailov.PN"
+},
+
+{
+"abbreviatedName": "Михайлова Валерия Сергеевна",
+"login": "TGC1\Mihaylova.VS"
+},
+
+{
+"abbreviatedName": "Мирошниченко Виктор Александрович",
+"login": "TGC1\Miroshnichenko.VA"
+},
+
+{
+"abbreviatedName": "Мокан Эдуард Константинович",
+"login": "TGC1\Mokan.EK"
+},
+
+{
+"abbreviatedName": "Москвин Дмитрий Юрьевич",
+"login": "TGC1\Moskvin.DY"
+},
+
+{
+"abbreviatedName": "Можаев Николай Николаевич",
+"login": "TGC1\Mozhaev.NN"
+},
+
+{
+"abbreviatedName": "Музыченко Степан Александрович",
+"login": "TGC1\Muzychenko.SA"
+},
+
+{
+"abbreviatedName": "Назарова Юлия Анатольевна",
+"login": "TGC1\Nazarova.YA"
+},
+
+{
+"abbreviatedName": "Никитин Аркадий Викторович",
+"login": "TGC1\Nikitin.AV"
+},
+
+{
+"abbreviatedName": "Ниточка Виктория Павловна",
+"login": "TGC1\Nitochka.VP"
+},
+
+{
+"abbreviatedName": "Диспетчер Департамента по планированию и оперативной работе на ОРЭМ",
+"login": "TGC1\PDdisp"
+},
+
+{
+"abbreviatedName": "Пасека Анатолий Васильевич",
+"login": "TGC1\Paseka.AV"
+},
+
+{
+"abbreviatedName": "Патраков Константин Геннадьевич",
+"login": "TGC1\Patrakov.KG"
+},
+
+{
+"abbreviatedName": "Пелюхов Алексей Александрович",
+"login": "TGC1\Pelyuhov.AA"
+},
+
+{
+"abbreviatedName": "Полонянкина Евгения Владимировна",
+"login": "TGC1\Polonyankina.EV"
+},
+
+{
+"abbreviatedName": "Прудников Артем Игоревич",
+"login": "TGC1\Prudnikov.AI"
+},
+
+{
+"abbreviatedName": "Пулиновский Алексей Сергеевич",
+"login": "TGC1\Pulinovskiy.AS"
+},
+
+{
+"abbreviatedName": "Rakitin.SV",
+"login": "TGC1\Rakitin.SV"
+},
+
+{
+"abbreviatedName": "Репин Игорь Ильич",
+"login": "TGC1\Repin.II"
+},
+
+{
+"abbreviatedName": "Решетова Наталья Михайловна",
+"login": "TGC1\Reshetova.NM"
+},
+
+{
+"abbreviatedName": "Ротин Андрей Владимирович",
+"login": "TGC1\Rotin.AV"
+},
+
+{
+"abbreviatedName": "Rzhanov.SA",
+"login": "TGC1\Rzhanov.SA"
+},
+
+{
+"abbreviatedName": "Садовский Игорь Иосифович",
+"login": "TGC1\Sadovsky.II"
+},
+
+{
+"abbreviatedName": "Сараев Сергей Сергеевич",
+"login": "TGC1\Saraev.SS"
+},
+
+{
+"abbreviatedName": "Сергеев Сергей Владимирович",
+"login": "TGC1\Sergeev.SV"
+},
+
+{
+"abbreviatedName": "Шабловская Галина Борисовна",
+"login": "TGC1\Shablovskaya.GB"
+},
+
+{
+"abbreviatedName": "Шахамердянова Татьяна Владимировна",
+"login": "TGC1\Shahamerdyanova.TV"
+},
+
+{
+"abbreviatedName": "Шалашов Вячеслав Александрович",
+"login": "TGC1\Shalashov.VA"
+},
+
+{
+"abbreviatedName": "Шестаков Александр Владимирович",
+"login": "TGC1\Shestakov.AV"
+},
+
+{
+"abbreviatedName": "Шишканова Александра Юрьевна",
+"login": "TGC1\Shishkanova.AY"
+},
+
+{
+"abbreviatedName": "Шугов Владимир Николаевич",
+"login": "TGC1\Shugov.VN"
+},
+
+{
+"abbreviatedName": "Симонов Виталий Александрович",
+"login": "TGC1\Simonov.VA"
+},
+
+{
+"abbreviatedName": "Синякова Светлана Васильевна",
+"login": "TGC1\Sinyakova.SV"
+},
+
+{
+"abbreviatedName": "Скачков Антон Вадимович",
+"login": "TGC1\Skachkov.AV"
+},
+
+{
+"abbreviatedName": "Смирнов Дмитрий Анатольевич",
+"login": "TGC1\Smirnov.DA"
+},
+
+{
+"abbreviatedName": "Солнцева Марина Геннадьевна",
+"login": "TGC1\Solntseva.MG"
+},
+
+{
+"abbreviatedName": "Столяров Дмитрий Андреевич",
+"login": "TGC1\Stolyarov.DA"
+},
+
+{
+"abbreviatedName": "Сусленков Алексей Тахирович",
+"login": "TGC1\Suslenkov.AT"
+},
+
+{
+"abbreviatedName": "Суслов Алексей Александрович",
+"login": "TGC1\Suslov.AA"
+},
+
+{
+"abbreviatedName": "Тарасов Игорь Викторович",
+"login": "TGC1\Tarasov.IV"
+},
+
+{
+"abbreviatedName": "Тетерин Андрей Геннадьевич",
+"login": "TGC1\Teterin.AG"
+},
+
+{
+"abbreviatedName": "Тузникова Евгения Михайловна",
+"login": "TGC1\Tuznikova.EM"
+},
+
+{
+"abbreviatedName": "Валуйкин Игорь Станиславович",
+"login": "TGC1\Valuykin.IS"
+},
+
+{
+"abbreviatedName": "Васильев Владимир Александрович",
+"login": "TGC1\Vasilev.WA"
+},
+
+{
+"abbreviatedName": "Васильева Юлия Сергеевна",
+"login": "TGC1\Vasileva.YS"
+},
+
+{
+"abbreviatedName": "Вировлянский Владимир Алексеевич",
+"login": "TGC1\Virovlyanskiy.VA"
+},
+
+{
+"abbreviatedName": "Якушин Илья Валентинович",
+"login": "TGC1\Yakushin.IV"
+},
+
+{
+"abbreviatedName": "Янин Артем Алексеевич",
+"login": "TGC1\Yanin.AA"
+},
+
+{
+"abbreviatedName": "Жук Ирина Борисовна",
+"login": "TGC1\Zhuk.IB"
+},
+
+{
+"abbreviatedName": "Зинченко Светлана",
+"login": "TGC1\Zinchenko.SA"
+},
+
+{
+"abbreviatedName": "Любич Виталий Олегович",
+"login": "TGC1\lubich.VO"
+},
+
+{
+"abbreviatedName": "Никитина Марина Сергеевна",
+"login": "TGC1\nikitina.ms"
+},
+
+{
+"abbreviatedName": "Эркенов Александр Кемалович",
+"login": "TGC1\Erkenov.AK"
+},
+
+{
+"abbreviatedName": "Юша Вадим Владимирович",
+"login": "TGC1\usha.vv"
+},
+
+{
+"abbreviatedName": "Кабанова Наталья Евгеньевна",
+"login": "TGC1\Kabanova.NE"
+},
+
+{
+"abbreviatedName": "Хомкалов Дмитрий Владимирович",
+"login": "TGC1\Khomkalov.DV"
+},
+
+{
+"abbreviatedName": "Коршунов Сергей Владимирович",
+"login": "TGC1\Korshunov.SV"
+},
+
+{
+"abbreviatedName": "Лапин Николай Андреевич",
+"login": "TGC1\Lapin.NA"
+},
+
+{
+"abbreviatedName": "Латыпов Сергей Александрович",
+"login": "TGC1\Latypov.SA"
+},
+
+{
+"abbreviatedName": "Логинов Андрей Сергеевич",
+"login": "TGC1\Loginov.AS"
+},
+
+{
+"abbreviatedName": "Махов Валентин Андреевич",
+"login": "TGC1\Mahov.VA"
+},
+
+{
+"abbreviatedName": "Максин Денис Валерьевич",
+"login": "TGC1\Maksin.DV"
+},
+
+{
+"abbreviatedName": "Матвеев Михаил Борисович",
+"login": "TGC1\Matveev.MB"
+},
+
+{
+"abbreviatedName": "Майнек Татьяна Владимировна",
+"login": "TGC1\Maynek.TV"
+},
+
+{
+"abbreviatedName": "Милашевская Оксана Ивановна",
+"login": "TGC1\Milashevskaya.OI"
+},
+
+{
+"abbreviatedName": "Милосердов Ярослав Юрьевич",
+"login": "TGC1\Miloserdov.YY"
+},
+
+{
+"abbreviatedName": "Митусов Алексей Александрович",
+"login": "TGC1\Mitusov.AA"
+},
+
+{
+"abbreviatedName": "Мосеев Роман Сергеевич",
+"login": "TGC1\Moseev.RS"
+},
+
+{
+"abbreviatedName": "Недвижаева Анастасия Владимировна",
+"login": "TGC1\Nedvizhaeva.AV"
+},
+
+{
+"abbreviatedName": "Никитин Олег Сергеевич",
+"login": "TGC1\Nikitin.OS"
+},
+
+{
+"abbreviatedName": "Платонов Илья Дмитриевич",
+"login": "TGC1\Platonov.ID"
+},
+
+{
+"abbreviatedName": "Полевой Иван Леонидович",
+"login": "TGC1\Polevoy.IL"
+},
+
+{
+"abbreviatedName": "Щанкин Андрей Николаевич",
+"login": "TGC1\Schankin.AN"
+},
+
+{
+"abbreviatedName": "Сергеенко Светлана Александровна",
+"login": "TGC1\Sergeenko.SA"
+},
+
+{
+"abbreviatedName": "Шишикин Александр Викторович",
+"login": "TGC1\Shishikin.AV"
+},
+
+{
+"abbreviatedName": "Сончик Андрей Иванович",
+"login": "TGC1\Sonchik.AI"
+},
+
+{
+"abbreviatedName": "Ташенов Вячеслав Геннадьевич",
+"login": "TGC1\Tashenov.VG"
+},
+
+{
+"abbreviatedName": "Тривус Арсений Львович",
+"login": "TGC1\Trivus.AL"
+},
+
+{
+"abbreviatedName": "Тузникова Галина Михайловна",
+"login": "TGC1\Tuznikova.GM"
+},
+
+{
+"abbreviatedName": "Усачёв Владислав Викторович",
+"login": "TGC1\Usachev.VV"
+},
+
+{
+"abbreviatedName": "Веснин Виталий Александрович",
+"login": "TGC1\Vesnin.VA"
+},
+
+{
+"abbreviatedName": "Ягафаров Альфред Латифович",
+"login": "TGC1\Yagafarov.AL"
+},
+
+{
+"abbreviatedName": "Заборова Александра Дмитриевна",
+"login": "TGC1\Zaborova.AD"
+},
+
+{
+"abbreviatedName": "Желудченко Максим Андреевич",
+"login": "TGC1\Zheludchenko.MA"
+},
+
+{
+"abbreviatedName": "Жуковский Никита Анатольевич",
+"login": "TGC1\Zhukovskiy.NA"
+},
+
+{
+"abbreviatedName": "НСС ПТЭЦ",
+"login": "TGC1\nssostec.krl"
+},
+
+{
+"abbreviatedName": "НСС ТЭЦ-14",
+"login": "TGC1\nsst14"
+},
+
+{
+"abbreviatedName": "НСС ТЭЦ-15",
+"login": "TGC1\nsst15"
+},
+
+{
+"abbreviatedName": "НСС ТЭЦ-17",
+"login": "TGC1\nsst17"
+},
+
+{
+"abbreviatedName": "НСС ТЭЦ-21",
+"login": "TGC1\nsst21"
+},
+
+{
+"abbreviatedName": "НСС ТЭЦ-22",
+"login": "TGC1\nsst22"
+},
+
+{
+"abbreviatedName": "НСС ТЭЦ-5",
+"login": "TGC1\nsst5"
+},
+
+{
+"abbreviatedName": "НСС ТЭЦ-7",
+"login": "TGC1\nsst7"
+}
+]

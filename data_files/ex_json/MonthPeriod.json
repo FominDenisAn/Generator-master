@@ -1,0 +1,50 @@
+[
+	{
+		"monthName": "Январь",
+		"monthNum": "1"
+	},
+	{
+		"monthName": "Февраль",
+		"monthNum": "2"
+	},
+	{
+		"monthName": "Март",
+		"monthNum": "3"
+	},
+	{
+		"monthName": "Апрель",
+		"monthNum": "4"
+	},
+	{
+		"monthName": "Май",
+		"monthNum": "5"
+	},
+	{
+		"monthName": "Июнь",
+		"monthNum": "6"
+	},
+	{
+		"monthName": "Июль",
+		"monthNum": "7"
+	},
+	{
+		"monthName": "Август",
+		"monthNum": "8"
+	},
+	{
+		"monthName": "Сентябрь",
+		"monthNum": "9"
+	},
+	{
+		"monthName": "Октябрь",
+		"monthNum": "10"
+	},
+	{
+		"monthName": "Ноябрь",
+		"monthNum": "11"
+	},
+	{
+		"monthName": "Декабрь",
+		"monthNum": "12"
+	}
+]

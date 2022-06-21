@@ -1,0 +1,66 @@
+$a = '{"statistics":
+[{       "monthNum": "1"
+
+},{      "monthNum": "2"
+      
+},{      "monthNum": "3"
+      
+},{      "monthNum": "4"
+      
+},{      "monthNum": "5"
+      
+},{      "monthNum": "6"
+      
+},{      "monthNum": "7"
+      
+},{      "monthNum": "8"
+      
+},{      "monthNum": "9"
+      
+},{      "monthNum": "10"
+      
+},{      "monthNum": "11"
+      
+},{      "monthNum": "12"
+      
+}]}';
+
+$b = '{"MonthName":
+[ {"monthName": "Январь",
+	"monthNum": "1"},
+  {"monthName": "Февраль",
+	"monthNum": "2"},
+  {"monthName": "Март",
+	"monthNum": "3"},
+  {"monthName": "Апрель",
+	"monthNum": "4"},
+  {"monthName": "Май",
+	"monthNum": "5"},
+  {"monthName": "Июнь",
+	"monthNum": "6"},
+  {"monthName": "Июль",
+	"monthNum": "7"},
+  {"monthName": "Август",
+	"monthNum": "8"},
+  {"monthName": "Сентябрь",
+	"monthNum": "9"},
+  {"monthName": "Октябрь",
+	"monthNum": "10"},
+  {"monthName": "Ноябрь",
+	"monthNum": "11"},
+  {"monthName": "Декабрь",
+	"monthNum": "12"}]}';
+
+// Get assoc arrays
+$a_val = json_decode($a, true);
+$b_val = json_decode($b, true);
+$arr = [];
+
+foreach($a_val['item'] as $k => $v){
+   // Merge array
+   $arr [] = array_merge($a_val['statistics'][$k], $b_val['MonthName'][$k]);
+}
+
+// Create new JSON with array
+$res = json_encode(['MonthPeriod' => $arr], JSON_UNESCAPED_UNICODE);
+print_r($res);
